@@ -1,0 +1,3 @@
+Antecedent,Consequent,Support,Confidence,Rule_Length
+"Antecedent(('Speech Delay/Language Disorder', 'No'), ('Sex', 'F'))","Consequent{('ASD', 'NotAutism')}",0.19222462203023757,1.0,3
+"Antecedent(('Speech Delay/Language Disorder', 'No'), ('Ethnicity', 'Middle Eastern'))","Consequent{('ASD', 'NotAutism')}",0.10727141828653708,1.0,3
